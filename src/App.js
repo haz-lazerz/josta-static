@@ -21,13 +21,19 @@ function App() {
           <div>
             <p>
               <MDBIcon className="mr-2" size="3x" fab icon="facebook-f" />
-              <a href="https://www.facebook.com/jostaproductions/">
+              <a
+                href="https://www.facebook.com/jostaproductions/"
+                target="blank"
+              >
                 Facebook'e
               </a>
             </p>
             <p>
               <MDBIcon className="mr-2" size="3x" fab icon="instagram" />
-              <a href="https://www.instagram.com/josta_productions/">
+              <a
+                href="https://www.instagram.com/josta_productions/"
+                target="blank"
+              >
                 Instagram'e
               </a>
             </p>
