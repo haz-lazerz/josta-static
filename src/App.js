@@ -17,7 +17,7 @@ function App() {
         </p>
       </MDBRow>
       <MDBRow className="links">
-        <MDBCol className="my-col" size="6">
+        <MDBCol className="my-col px-0" size="6">
           <div>
             <p>
               <MDBIcon className="mr-2" size="3x" fab icon="facebook-f" />
@@ -33,7 +33,7 @@ function App() {
             </p>
           </div>
         </MDBCol>
-        <MDBCol className="my-col" size="6">
+        <MDBCol className="my-col px-0" size="6">
           <div>
             <p>
               <MDBIcon className="mr-2" size="3x" icon="at" />
