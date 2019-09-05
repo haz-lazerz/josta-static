@@ -1,0 +1,67 @@
+.disaster-page-container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.bottom-row {
+  background-color: #efc327;
+  height: 5%;
+  justify-content: center;
+  align-items: center;
+}
+
+.bottom-row p {
+  font-weight: bold;
+}
+
+.up-row {
+  justify-content: center;
+  align-items: center;
+  background-color: #efc327;
+  height: 10%;
+}
+
+.content {
+  height: 75%;
+  color: white;
+  background-color: black;
+  justify-content: center;
+}
+
+.info {
+  background-color: black;
+  color: white;
+  height: 10%;
+  justify-content: center;
+  align-items: center;
+}
+
+.info p {
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.logo {
+  height: 50px;
+}
+
+.links {
+  background-color: black;
+  color: white;
+}
+
+.links p {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.my-col {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+a {
+  color: white;
+}
